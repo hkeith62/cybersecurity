@@ -33,7 +33,7 @@ body {
  
 #header {
 	width: 1450px;
-	background-color: #094514;
+	background-color: #000435;
     margin-bottom: 60px;
 }
 /* Top hamburger (3 line) menu. */
@@ -259,7 +259,7 @@ margin-left:270px;
 #footer-container {
     position: relative;
 	width: 100%;
-	background-color: #094514;
+	background-color:#000435;
 	margin-top: 20px;
 	color: white;
 	height: 100%;
@@ -309,7 +309,7 @@ margin-left:270px;
 
   #copy-right {
     width: 1450px;
-	background-color: #094514;
+	background-color: #000435;
 	padding-top: 60px;
 	padding-bottom: 30px;
 }
@@ -359,7 +359,7 @@ margin-left:270px;
 /* Style link as a button */
 
   .button  {
-        background-color: #69F483;
+        background-color: #a9c7ee;
         padding: 10px 15px;
         border-radius: 3px;
 		margin-top: 2px;
@@ -395,16 +395,16 @@ margin-left:270px;
     outline: 0;
     display: inline-block;
     padding: 8px 8px;
-    color: #094514;
-    background-color: #69F483;
+    color: #000435;
+    background-color: #a9c7ee;
     text-align: center;
     cursor: pointer;
 	border-radius: 3px;
 	font-family: Poppins;
 }
 .comment-btn:hover {
-	background-color: #1ff246;
-    color: #094514;
+	background-color: #a9c7ee;
+    color:#000435 ;
 }
 .comment-textarea {
     width:300px;
