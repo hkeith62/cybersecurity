@@ -1,3 +1,9 @@
+/**
+    Title: Footer.js
+    Author: Keith Hall
+    Date: 05/30/2021
+    Description: This is the html component for the footer.
+*/
 class Footer extends HTMLElement
 {
     constructor() {

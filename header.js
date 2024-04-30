@@ -1,3 +1,9 @@
+/**
+    Title: Header.js
+    Author: Keith Hall
+    Date: 05/30/2021
+    Description: Html component for the header.
+*/
 class Header extends HTMLElement
 {
     constructor() {
@@ -15,9 +21,6 @@ class Header extends HTMLElement
           <span class="logo-name"style="background-color:#094514; width:60px;height:41px;color:#69F483">KH</span>
           <i class='bx bx-x' ></i>
         </div>
-         
-         
-		
       </div>
       <div class="search-box">
         <i class='bx bx'></i>
